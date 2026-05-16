@@ -1,0 +1,29 @@
+# Original project document (excluded per request)
+多模态AIS全量分析.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp files (underscore-prefixed intermediates)
+results/_*/
+results/_*.csv
+
+# Large raw data (keep only the .gz sources)
+results/*_expression.csv
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,32 @@
+{
+  "GSE16561": {
+    "platform": "GPL6883",
+    "expr_probes": 24424,
+    "annot_probes": 24526,
+    "mapped": 24424,
+    "coverage_pct": 100.0,
+    "unmapped": 0,
+    "affx_controls": 0,
+    "true_unmapped": 0
+  },
+  "GSE22255": {
+    "platform": "GPL570",
+    "expr_probes": 54675,
+    "annot_probes": 47441,
+    "mapped": 47440,
+    "coverage_pct": 86.76726108824873,
+    "unmapped": 7235,
+    "affx_controls": 52,
+    "true_unmapped": 7183
+  },
+  "GSE37587": {
+    "platform": "GPL6883",
+    "expr_probes": 24526,
+    "annot_probes": 24526,
+    "mapped": 24526,
+    "coverage_pct": 100.0,
+    "unmapped": 0,
+    "affx_controls": 0,
+    "true_unmapped": 0
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "date": "2026-05-16 12:24:13",
+  "probe_coverage": {
+    "GSE16561": {
+      "platform": "GPL6883",
+      "expr_probes": 24424,
+      "annot_probes": 24526,
+      "mapped": 24424,
+      "coverage_pct": 100.0,
+      "unmapped": 0,
+      "affx_controls": 0,
+      "true_unmapped": 0,
+      "tier_contributions": {
+        "total_probes": 24526,
+        "source": "cached"
+      }
+    },
+    "GSE22255": {
+      "platform": "GPL570",
+      "expr_probes": 54675,
+      "annot_probes": 47441,
+      "mapped": 47440,
+      "coverage_pct": 86.76726108824873,
+      "unmapped": 7235,
+      "affx_controls": 52,
+      "true_unmapped": 7183,
+      "tier_contributions": {
+        "total_probes": 47441,
+        "source": "cached"
+      }
+    },
+    "GSE37587": {
+      "platform": "GPL6883",
+      "expr_probes": 24526,
+      "annot_probes": 24526,
+      "mapped": 24526,
+      "coverage_pct": 100.0,
+      "unmapped": 0,
+      "affx_controls": 0,
+      "true_unmapped": 0,
+      "tier_contributions": {
+        "total_probes": 24526,
+        "source": "cached"
+      }
+    }
+  },
+  "combat_metrics": {
+    "pre": {
+      "batch_pca_variance": 0.9946594685093434,
+      "within_batch_corr": 0.6538374269080781,
+      "between_batch_corr": 0.2260569525279055,
+      "corr_ratio": 2.8923570790301856
+    },
+    "post": {
+      "batch_pca_variance": 0.0,
+      "within_batch_corr": 0.9164706688075918,
+      "between_batch_corr": 0.9163828690534842,
+      "corr_ratio": 1.0000958112128375
+    },
+    "runtime_s": 25.984145879745483,
+    "genes": 13278,
+    "samples": 171
+  },
+  "aims_modules": [
+    "NETosis",
+    "Kynurenine",
+    "Inflammasome",
+    "Complement",
+    "Metabolic_Stress",
+    "Cytokine_Storm",
+    "Angiogenesis",
+    "Apoptosis"
+  ],
+  "wgcna_params": {
+    "genes_input": 5000,
+    "modules_found": 9
+  },
+  "common_genes": 13278,
+  "datasets": {
+    "GSE16561": {
+      "samples": 63,
+      "genes": 13278
+    },
+    "GSE22255": {
+      "samples": 40,
+      "genes": 13278
+    },
+    "GSE37587": {
+      "samples": 68,
+      "genes": 13278
+    }
+  }
+}

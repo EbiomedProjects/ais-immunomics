@@ -1,0 +1,54 @@
+{
+  "query_up_genes": 355,
+  "query_down_genes": 480,
+  "candidates": [
+    {
+      "drug": "Valproic Acid",
+      "p_value": 6.39e-12,
+      "source": "GEO Perturb",
+      "mechanism": "HDAC inhibitor"
+    },
+    {
+      "drug": "Arsenic Trioxide",
+      "p_value": 5.18e-13,
+      "source": "GEO Perturb",
+      "mechanism": "Anti-inflammatory"
+    },
+    {
+      "drug": "Doxorubicin",
+      "p_value": 4.67e-13,
+      "source": "DrugMatrix",
+      "mechanism": "Immunomodulator"
+    },
+    {
+      "drug": "Thioguanine",
+      "p_value": 1.78e-10,
+      "source": "DrugMatrix",
+      "mechanism": "Purine analog"
+    },
+    {
+      "drug": "Streptomycin",
+      "p_value": 3.53e-10,
+      "source": "DrugMatrix",
+      "mechanism": "Antibiotic"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "p_value": 4.07e-10,
+      "source": "DrugMatrix",
+      "mechanism": "ICD inducer"
+    },
+    {
+      "drug": "Doxifluridine",
+      "p_value": 4.7e-10,
+      "source": "DrugMatrix",
+      "mechanism": "Antimetabolite"
+    },
+    {
+      "drug": "Hydroquinone",
+      "p_value": 2.94e-10,
+      "source": "GEO Perturb",
+      "mechanism": "Antioxidant"
+    }
+  ]
+}

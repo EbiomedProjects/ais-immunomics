@@ -1,0 +1,17 @@
+{
+  "pre": {
+    "batch_pca_variance": 0.9946594685093434,
+    "within_batch_corr": 0.6538374269080781,
+    "between_batch_corr": 0.2260569525279055,
+    "corr_ratio": 2.8923570790301856
+  },
+  "post": {
+    "batch_pca_variance": 0.0,
+    "within_batch_corr": 0.9164706688075918,
+    "between_batch_corr": 0.9163828690534842,
+    "corr_ratio": 1.0000958112128375
+  },
+  "runtime_s": 25.984145879745483,
+  "genes": 13278,
+  "samples": 171
+}
