@@ -166,18 +166,8 @@ results/
 └── figures/                          (10 publication-ready figures)
 ```
 
-## Citation
 
-If you use this framework, please cite:
-
-```
-[Paper citation - to be added upon publication]
-```
-
-## License
-
-MIT License - see LICENSE file for details.
 
 ## Author
 
-[Your Name] - [Your Institution]
+[Haocheng Zhao] - [Huazhong University of Science and Technology]
